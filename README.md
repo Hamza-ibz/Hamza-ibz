@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on [an Amazon Clone](https://github.com/Hamza-ibz/Amazon-starter-template-nextjs)
+- 🔭 I’m currently working on [an Amazon Clone Website](https://github.com/Hamza-ibz/Amazon-starter-template-nextjs)
 
 - 🌱 I’m currently learning **React Native, Tailwind, Firebase**
 
