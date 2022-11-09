@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mdhamzaibrahim@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GILacoVOwOooMdMa1t_pftRfWcMKGAGl/view?usp=sharing](https://drive.google.com/file/d/1GILacoVOwOooMdMa1t_pftRfWcMKGAGl/view?usp=sharing)
+- 📄 Know about my experiences. Here is my CV:- [https://drive.google.com/file/d/1GILacoVOwOooMdMa1t_pftRfWcMKGAGl/view?usp=sharing](https://drive.google.com/file/d/1GILacoVOwOooMdMa1t_pftRfWcMKGAGl/view?usp=sharing)
 
 - ⚡ Fun fact **Got a 1st class Bachelor of Science in Computer Science**
 
