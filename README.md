@@ -47,13 +47,6 @@
 
 ---
 
-### 🔥 Notable Projects
-📌 **[Data Visualisation Website](#)** – Built a **cloud-hosted website on AWS S3** with a **serverless backend**, displaying **real-time crypto data, predictions, and sentiment analysis**.  
-📌 **[Price Comparison Website](#)** – Web-scraped **real-time pricing data for iPhone products** across multiple e-commerce platforms.  
-📌 **[Weather Application](#)** – Developed a **full-stack MERN weather app** with real-time API integration and user authentication.  
-
----
-
 ### 📊 GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza-ibz&show_icons=true&locale=en" alt="hamza-ibz" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-ibz&" alt="hamza-ibz" /></p>
