@@ -14,7 +14,7 @@
 - 🌱 I’m currently expanding my knowledge in **React Native, Tailwind CSS, and Firebase**.
 - 👨‍💻 Check out my projects at **[GitHub](https://github.com/Hamza-ibz?tab=repositories)**.
 - 📫 Reach me at **mdhamzaibrahim@gmail.com**.
-- 📄 My CV: **[View Here]([https://drive.google.com/file/d/1fjiGYbmEDoYjTUl1tqaIDofmUwbzceO2/view?usp=sharing](https://drive.google.com/file/d/15Rck-UcZ7X1A6ye1Wa9NgN-BHCyYVt_t/view?usp=sharing)**.
+- 📄 My CV: **[View Here](https://drive.google.com/file/d/15Rck-UcZ7X1A6ye1Wa9NgN-BHCyYVt_t/view?usp=sharing))**.
 
 ---
 
